@@ -6,16 +6,24 @@ jose:
     org: 'Amadeus'
     team: 'Cloud Migration'
     location: '🇩🇪'
-    os: 'Ubuntu + i3wm'
   skills:
-    - '🐍 Python'
+    - ' Python'
     - '@ Ansible'
     - '⎈ k8s'
     - '🐧 Linux'
     - '⚙ Jenkins'
+    - ' Tensorflow'
   learning:
     - '三GO'
     - '🚀 emacs'
   passions: '💻 ✈️ 🚴 🏂 🥘'
+  setup:
+    os: 'Ubuntu'
+    wm: 'i3'
+    shell: 'zsh on tmux'
+    misc:
+      - 'https://github.com/denisidoro/navi'
+      - 'https://github.com/jarun/nnn'
+      - 'https://github.com/neoclide/coc.nvim'
   contact: 'https://keybase.io/alonsomoya'
 ```
