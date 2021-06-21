@@ -4,12 +4,12 @@
 jose:
   dir:
     position: 'SRE'
-    org: 'Amadeus'
+    org: 'ⓐ Amadeus'
     team: 'Cloud Migration'
     location: '🇩🇪'
   skills:
     - '🐍 Python'
-    - '@ Ansible'
+    - 'Ⓐ Ansible'
     - '⎈ k8s'
     - '🐧 Linux'
     - '🚀 Jenkins'
