@@ -15,7 +15,7 @@ jose:
     - '🤖 Tensorflow'
   learning:
     - '三GO'
-    - '🇪 emacs'
+    - 'ℰ emacs'
   passions: '💻 ✈️ 🚴 🏂 🥘'
   setup:
     os: 'Ubuntu'
