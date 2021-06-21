@@ -19,9 +19,10 @@ jose:
   passions: '💻 ✈️ 🚴 🏂 🥘'
   setup:
     os: 'Ubuntu'
-    wm: 'i3'
+    wm: 'https://github.com/i3/i3'
     shell: 'zsh on tmux'
     misc:
+      - 'https://github.com/ohmyzsh/ohmyzsh'
       - 'https://github.com/denisidoro/navi'
       - 'https://github.com/jarun/nnn'
       - 'https://github.com/neoclide/coc.nvim'
