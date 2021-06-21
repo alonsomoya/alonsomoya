@@ -4,7 +4,7 @@
 jose:
   dir:
     position: 'SRE'
-    org: 'ⓐAmadeus'
+    org: 'Amadeus ⓐ✈️'
     team: 'Cloud Migration'
     location: '🇩🇪'
   skills:
