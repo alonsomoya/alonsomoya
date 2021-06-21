@@ -6,6 +6,7 @@ jose:
     org: 'Amadeus'
     team: 'Cloud Migration'
     location: '🇩🇪'
+    os: 'Ubuntu + i3wm'
   skills:
     - '🐍 Python'
     - '@ Ansible'
@@ -14,6 +15,7 @@ jose:
     - '⚙ Jenkins'
   learning:
     - '三GO'
+    - '🚀 emacs'
   passions: '💻 ✈️ 🚴 🏂 🥘'
   contact: 'https://keybase.io/alonsomoya'
 ```
