@@ -7,15 +7,15 @@ jose:
     team: 'Cloud Migration'
     location: '🇩🇪'
   skills:
-    - ' Python'
+    - '🐍 Python'
     - '@ Ansible'
     - '⎈ k8s'
     - '🐧 Linux'
-    - '⚙ Jenkins'
-    - ' Tensorflow'
+    - '🚀 Jenkins'
+    - '🤖 Tensorflow'
   learning:
     - '三GO'
-    - '🚀 emacs'
+    - '🇪 emacs'
   passions: '💻 ✈️ 🚴 🏂 🥘'
   setup:
     os: 'Ubuntu'
