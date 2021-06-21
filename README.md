@@ -17,6 +17,7 @@ jose:
   learning:
     - '三GO'
     - 'ℰ emacs'
+    - '☁️ Azure'
   passions: ['💻', '✈️', '🚴', '🏂', '🥘']
   setup:
     os: 'Ubuntu'
