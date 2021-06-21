@@ -16,7 +16,7 @@ jose:
   learning:
     - '三GO'
     - 'ℰ emacs'
-  passions: '💻 ✈️ 🚴 🏂 🥘'
+  passions: ['💻', '✈️', '🚴', '🏂', '🥘']
   setup:
     os: 'Ubuntu'
     wm: 'https://github.com/i3/i3'
