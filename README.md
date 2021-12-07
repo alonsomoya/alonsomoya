@@ -1,4 +1,4 @@
-# 👋 ¡Hola!
+# <img src="hi.gif" width="29px"> ¡Hola!
 ``` yaml
 ---
 jose:
@@ -14,19 +14,10 @@ jose:
     - '🐧 Linux'
     - '🚀 Jenkins'
     - '🤖 Tensorflow'
+    - 'ℰ emacs'
   learning:
     - '三GO'
-    - 'ℰ emacs'
     - '☁️ Azure'
   passions: ['💻', '✈️', '🚴', '🏂', '🥘']
-  setup:
-    os: 'Ubuntu'
-    wm: 'https://github.com/i3/i3'
-    shell: 'zsh on tmux'
-    misc:
-      - 'https://github.com/ohmyzsh/ohmyzsh'
-      - 'https://github.com/denisidoro/navi'
-      - 'https://github.com/jarun/nnn'
-      - 'https://github.com/neoclide/coc.nvim'
   contact: 'https://keybase.io/alonsomoya'
 ```
