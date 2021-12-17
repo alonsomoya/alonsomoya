@@ -17,6 +17,7 @@ jose:
     - 'ℰ emacs'
   learning:
     - '三GO'
+    -  '🇹 Terraform/Terragrunt'
     - '☁️ Azure'
   passions: ['💻', '✈️', '🚴', '🏂', '🥘']
   contact: 'https://keybase.io/alonsomoya'
