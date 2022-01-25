@@ -12,8 +12,8 @@ jose:
     - Ⓐ Ansible
     - ⎈ k8s
     - 🐧 Linux
-    - '🚀 Jenkins
-    - '🤖 Tensorflow
+    - 🚀 Jenkins
+    - 🤖 Tensorflow
     - ℰ emacs
   learning:
     - 三GO
